@@ -44,8 +44,8 @@ Merged dataframe after combining city_data.csv and ride_data.csv.
 
 ## Analysis
   
-       Looking at the multiline chart,we see that from March onwards, there was a spike in Urban in the Fares.
+       Looking at the multiline chart,Urban Fare ranged between $1900-2600. We see that from March onwards, there was a spike and never fell below $2000
          
-       Suburban saw better fare uptil March but dropped from mid-march to mid April.
+       Suburban saw better fare uptil Mid-feb ranging from $900- $1500 but dropped from mid-march to mid April.
          
        Rural pretty much remained consistent thorughout ranging between $0-500
