@@ -22,6 +22,7 @@ Merged dataframe after combining city_data.csv and ride_data.csv.
 ![alt text](https://github.com/29bharat/PyBer_Analysis/blob/master/analysis/Summary%20Dataframe.PNG)
 
 ##Analysis
+  
        Looking at the summary, we can say that even though Urban Cities had significantly higher rides and drivers compared to Suburban and Rural cities, the average fare per ride and per driver is reamins the lowest amonst the three city types.
          
        Rural had the least number of rides(13 times less than Urban and 5 times less than Suburban) and drivers (approx 31 times less than Urban and 6 times less than Suburban)  yet tops with average fare per ride($10 more than Urban and $3.5 more than Suburban) and per driver(approx $39 more than Urban and $16 more than Suburban).
@@ -42,6 +43,7 @@ Merged dataframe after combining city_data.csv and ride_data.csv.
 ![alt text](https://github.com/29bharat/PyBer_Analysis/blob/master/analysis/PyBerChallenge5.png)
 
 ##Analysis
+  
        Looking at the multiline chart,we see that from March onwards, there was a spike in Urban in the Fares.
          
        Suburban saw better fare uptil March but dropped from mid-march to mid April.
